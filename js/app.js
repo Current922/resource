@@ -1,4 +1,4 @@
-const base = "http://116.198.46.64:8080/js/";
+const base = "https://cdn.jsdelivr.net/gh/Current922/resource@main/js/";
 const scripts = [
   "runtime.9e292c7ee7c878c7.js",
   "polyfills.885d4e3ac3725967.js",
